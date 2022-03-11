@@ -6,19 +6,6 @@ import PageAnimation from "../components/pageAnimation";
 
 const ItemInfo = ({content, setMouseClass}) => {
     let params = useParams();
-    const pageTransitionVariants = {
-        hidden: {
-            y: '-100%',
-        },
-        exit: i => ({
-            y: '0',
-            transition: {
-                duration: 0.5,
-                delay: i * 0.1,
-                ease: 'easeInOut',
-            },
-        })
-    };
     return (
         <PageAnimation inEffect={false}>
             <div className='over-y-auto'>
