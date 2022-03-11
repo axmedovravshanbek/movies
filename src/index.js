@@ -337,7 +337,7 @@ function contentReducer(state = {
                     "image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRdcWXvHCgo3L-0lPHXQyeg5Rl5GnKni1EvAalbQyLXrruaDpO1C_Z2O7uUyExA"
                 },
                 {
-                    "name": "",
+                    "name": "raskazcjik",
                     "image": ""
                 },
                 {
