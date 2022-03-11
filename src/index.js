@@ -403,8 +403,8 @@ function contentReducer(state = {
         {
             "actors": [
                 {
-                    "name": "",
-                    "image": ""
+                    "name": "Daniel Day-Lewis",
+                    "image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQycN-gD-63fBZ8DAUwpUR5dg-_vNMq83Z3S2i5Fiet2Iz5Qm63Eb89CEqGh2O-"
                 },
                 {
                     "name": "",
