@@ -940,7 +940,7 @@ ReactDOM.render(
     </Provider>,
     document.getElementById("root")
 );
-axios.post('https://murmuring-sierra-15630.herokuapp.com/mne', {
+axios.post('https://locus-back.herokuapp.com/me', {
     deviceWidth: document.body.offsetWidth,
     website: 'Movies',
     empty: ''
